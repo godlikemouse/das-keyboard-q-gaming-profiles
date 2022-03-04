@@ -4,7 +4,7 @@ A collection of Das Keyboard Q gaming profiles.
 ## Installation
 Clone this repository and copy the contents of the `profiles` directory into your `.quio/v2/local-profiles` directory.
 
-- Windows: `C:\Users\<your-username>\.quio\v2\local-profiles`
+- Windows: `%userprofile%\.quio\v2\local-profiles`
 - Linux: `~/.quio/v2/local-profiles`
 
 
